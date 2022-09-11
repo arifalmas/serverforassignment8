@@ -1,0 +1,24 @@
+[
+    {
+      "id": 3,
+      "text": "Learn React JS with lws",
+      "completed": true,
+      "color": "green"
+    },
+    {
+      "text": "Learn React-Redux",
+      "completed": true,
+      "id": 4,
+      "color": "green"
+    },
+    {
+      "text": "learn Redux Toolkit",
+      "completed": true,
+      "id": 6,
+      "color": "green"
+    },
+    {"text": "I'm Arif Almas. It's Works!",
+    "completed": false,
+    "id": 7
+    }
+  ]
